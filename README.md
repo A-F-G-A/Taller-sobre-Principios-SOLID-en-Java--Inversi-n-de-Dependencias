@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README — Taller Principio de Inversión de Dependencias (DIP)
 📌 Programación Orientada a Objetos
 
@@ -101,3 +102,6 @@ Cambiar implementaciones sin editar código interno.
 Agregar nuevos tipos de autenticación, almacenamiento o reporte sin modificar los gestores.
 
 Reducir el acoplamiento y mejorar la escalabilidad.
+=======
+# Taller-sobre-Principios-SOLID-en-Java--Inversi-n-de-Dependencias
+>>>>>>> 3286b137eb581dc10eb47f311f9095896a9f6bc6
