@@ -1,8 +1,8 @@
-package Ejercicio_3;
+package Ejercicio_3;    
 
 public class GestorReportes {
 
-    private GeneradorReporte generador;
+    private final GeneradorReporte generador;
 
     public GestorReportes(GeneradorReporte generador) {
         this.generador = generador;
